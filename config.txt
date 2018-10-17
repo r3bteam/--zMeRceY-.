@@ -1,6 +1,6 @@
-token=NDg3NjQ1MDUyMDA1Mzg0MjAy.DnnCOg.nchRixdCmEQ0J-jMQzd-pp0Z8k8
-owner=450711003324350485 
-prefix=2
-game=Skillful Community.
+token=NTAyMjQxMzM1MDI2MjUzODI1.DqlEXQ.7sjpsGOkCGPUIika74s09RarFeI
+owner=403512493529497601 
+prefix=z
+game=Lost .
 stayinchannel=true
 songinstatus=true
